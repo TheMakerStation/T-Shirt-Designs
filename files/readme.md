@@ -22,4 +22,5 @@ The font used is Collegiate FLF found on DaFont:  https://www.dafont.com/collegi
 license information is not available  
 2. Nation Of Makers  
 Inspired by Ian Cole's "We Are A Nation Of Makers" design  
-The majority of icons used in the NOM design on this repo were sourced from https://pixabay.com/en/photos/?min_width=&min_height=&colors=grayscale&q=tools&image_type=vector&order=popular
+The majority of icons used in the NOM design on this repo were sourced from pixabay.com  
+https://pixabay.com/en/photos/?min_width=&min_height=&colors=grayscale&q=tools&image_type=vector&order=popular
