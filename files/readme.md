@@ -16,7 +16,7 @@ If you find a custom font missing or svg doesn't look right/good, submit an [iss
 
 ## Index
 
-1. Maker Station Log with varsity font  
+1. Maker Station Logo with varsity style font  
 Marietta Makerspace  
 The font used is Collegiate FLF found on DaFont:  https://www.dafont.com/collegiateflf.font  
 license information is not available  
